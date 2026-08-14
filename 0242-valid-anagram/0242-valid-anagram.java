@@ -9,7 +9,7 @@ class Solution {
             charCounts[t.charAt(i)-'a']--;
         }
         for(int count: charCounts) {
-            if(count>0) return false;
+            if(count!=0) return false;
         }
         return true;
     }
