@@ -12,6 +12,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 ## Prefix Sum
 |  |
 | ------- |
