@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Arpan268/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpan268/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Arpan268/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arpan268/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Arpan268/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpan268/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Arpan268/DSA-Practice/tree/master/0217-contains-duplicate) |
