@@ -1,7 +1,6 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
         int contains1 = 0;
-        int missingno = 0;
 
         for(int n: nums) {
             if(n == 1) contains1++;
