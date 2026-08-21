@@ -17,6 +17,7 @@
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
+| [1480-running-sum-of-1d-array](https://github.com/Arpan268/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arpan268/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Arpan268/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
 | ------- |
