@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/Arpan268/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
@@ -31,6 +32,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Arpan268/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
@@ -42,6 +44,7 @@
 | [0242-valid-anagram](https://github.com/Arpan268/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
