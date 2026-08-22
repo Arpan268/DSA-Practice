@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Arpan268/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arpan268/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Arpan268/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -121,6 +122,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Arpan268/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
