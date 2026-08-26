@@ -14,6 +14,6 @@ class Solution {
             if(arr[i]>0) return (char)(i + 97);
         }
 
-        return t.charAt(t.length()-1);
+        return '\0';
     }
 }
