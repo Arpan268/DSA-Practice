@@ -82,6 +82,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arpan268/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Arpan268/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arpan268/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Arpan268/DSA-Practice/tree/master/0383-ransom-note) |
@@ -150,6 +151,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Arpan268/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
