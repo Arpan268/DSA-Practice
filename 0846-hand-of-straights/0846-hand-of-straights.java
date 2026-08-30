@@ -10,19 +10,19 @@ class Solution {
         }
 
         for(int n: map.keySet()) {
-                int start = n;
-                while(map.containsKey(start) && map.get(start) != 0 && group > 0) {
-                    if(map.get(start) == 0) return false;
-                    map.put(start, map.get(start)-1);
-                    group--;
-                    start++;
-                    if(map.get(n) > 0 && group == 0) {
-                        group = groupSize;
-                        start = n;
-                    }
+            int start = n;
+            while(map.containsKey(start) && map.get(start) != 0 && group > 0) {
+                if(map.get(start) == 0) return false;
+                map.put(start, map.get(start)-1);
+                group--;
+                start++;
+                if(map.get(n) > 0 && group == 0) {
+                    group = groupSize;
+                    start = n;
                 }
-                if(group != 0 && group != groupSize) return false;
-                group = groupSize;
+            }
+            if(group != 0 && group != groupSize) return false;
+            group = groupSize;
         }
 
         for(int n: map.values()) {
