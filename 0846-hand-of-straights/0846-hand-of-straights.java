@@ -23,7 +23,6 @@ class Solution {
                 }
                 if(group != 0 && group != groupSize) return false;
                 group = groupSize;
-
         }
 
         for(int n: map.values()) {
