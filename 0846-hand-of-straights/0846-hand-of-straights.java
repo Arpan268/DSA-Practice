@@ -10,7 +10,6 @@ class Solution {
         }
 
         for(int n: map.keySet()) {
-            if(!map.containsKey(n-1) || map.get(n-1) == 0) {
                 int start = n;
                 while(map.containsKey(start) && map.get(start) != 0 && group > 0) {
                     if(map.get(start) == 0) return false;
@@ -24,7 +23,7 @@ class Solution {
                 }
                 if(group != 0 && group != groupSize) return false;
                 group = groupSize;
-            }
+
         }
 
         for(int n: map.values()) {
