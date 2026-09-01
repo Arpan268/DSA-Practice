@@ -17,8 +17,8 @@ class Solution {
                 left++;
             }
 
-            if(right-left+1 == s1.length()) {
-                if(Arrays.equals(s1map, s2map)) return true;
+            if(right-left+1 == s1.length() && Arrays.equals(s1map, s2map)) {
+                return true;
             }
         }
 
