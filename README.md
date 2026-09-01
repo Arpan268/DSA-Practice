@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arpan268/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -161,6 +164,7 @@
 | [0012-integer-to-roman](https://github.com/Arpan268/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arpan268/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Arpan268/DSA-Practice/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -193,4 +197,8 @@
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
