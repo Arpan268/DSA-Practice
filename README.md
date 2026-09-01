@@ -22,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Arpan268/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -57,6 +58,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Arpan268/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arpan268/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Arpan268/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
