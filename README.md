@@ -62,6 +62,7 @@
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Arpan268/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arpan268/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0890-find-and-replace-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
@@ -177,6 +180,7 @@
 | [0283-move-zeroes](https://github.com/Arpan268/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
