@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Arpan268/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpan268/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpan268/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arpan268/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -201,4 +202,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpan268/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
