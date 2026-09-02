@@ -11,8 +11,8 @@ class Solution {
 
             max = Math.max(max, freq[index]);
 
-            if(l-max <= k) {
-                if(l > ans) ans = l;
+            if(l-max <= k && l > ans) {
+                ans = l;
             }
             else {
                 freq[s.charAt(left)-'A']--;
