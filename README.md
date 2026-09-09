@@ -33,6 +33,7 @@
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
 | [0890-find-and-replace-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
+| [1004-max-consecutive-ones-iii](https://github.com/Arpan268/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Arpan268/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Arpan268/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -105,6 +106,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Arpan268/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Arpan268/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Arpan268/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Arpan268/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
@@ -205,6 +208,7 @@
 | [0268-missing-number](https://github.com/Arpan268/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Arpan268/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
