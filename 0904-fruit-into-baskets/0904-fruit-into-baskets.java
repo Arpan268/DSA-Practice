@@ -5,7 +5,6 @@ class Solution {
 
         int left = 0;
         for (int right = 0; right < fruits.length; right++) {
-            int start = fruits[left];
             map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
 
             if (map.size() < 3)
