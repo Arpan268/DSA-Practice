@@ -15,7 +15,7 @@ class Solution {
             if (nums[i] == maxK)
                 max = i;
 
-            if (Math.min(min, max) > badindex && min > -1 && max > -1) {
+            if (Math.min(min, max) >= badindex && min > -1 && max > -1) {
                 count += Math.min(min, max) - badindex;
             }
         }
