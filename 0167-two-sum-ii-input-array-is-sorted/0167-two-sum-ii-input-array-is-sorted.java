@@ -4,16 +4,17 @@ class Solution {
         int ans[] = new int[2];
 
         while (l < r) {
-            if (numbers[l] + numbers[r] == target) {
+            int sum = numbers[l] + numbers[r];
+            if (sum == target) {
                 ans[0] = l + 1;
                 ans[1] = r + 1;
                 break;
             }
 
-            if (numbers[l] + numbers[r] > target)
+            if (sum > target)
                 r--;
 
-            if (numbers[l] + numbers[r] < target)
+            if (sum < target)
                 l++;
         }
 
