@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Arpan268/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Arpan268/DSA-Practice/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Arpan268/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -210,6 +211,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arpan268/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Arpan268/DSA-Practice/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Arpan268/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -241,6 +243,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arpan268/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
 ## Pigeonhole Principle
 |  |
