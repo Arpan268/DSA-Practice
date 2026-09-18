@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Arpan268/DSA-Practice/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Arpan268/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpan268/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arpan268/DSA-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Arpan268/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -208,6 +210,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arpan268/DSA-Practice/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Arpan268/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpan268/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
