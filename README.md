@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Arpan268/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Arpan268/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arpan268/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpan268/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Arpan268/DSA-Practice/tree/master/0031-next-permutation) |
@@ -127,6 +128,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpan268/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Arpan268/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arpan268/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Arpan268/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Arpan268/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -200,6 +202,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Arpan268/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
