@@ -137,6 +137,7 @@
 | [0383-ransom-note](https://github.com/Arpan268/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arpan268/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Arpan268/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arpan268/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -206,6 +207,7 @@
 | [0012-integer-to-roman](https://github.com/Arpan268/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arpan268/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Arpan268/DSA-Practice/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Arpan268/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Union-Find
 |  |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Arpan268/DSA-Practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
