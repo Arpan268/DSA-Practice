@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpan268/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Arpan268/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arpan268/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arpan268/DSA-Practice/tree/master/0014-longest-common-prefix) |
@@ -220,6 +221,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Arpan268/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Arpan268/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpan268/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -265,6 +267,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpan268/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Arpan268/DSA-Practice/tree/master/0647-palindromic-substrings) |
@@ -284,4 +287,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Arpan268/DSA-Practice/tree/master/0412-fizz-buzz) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
