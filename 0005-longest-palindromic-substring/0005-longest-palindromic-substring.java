@@ -18,6 +18,7 @@ class Solution {
             l--;
             r++;
         }
+        
         if (r - l > right - left + 1) {
             left = l + 1;
             right = r;
