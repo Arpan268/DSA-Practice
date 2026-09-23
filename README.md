@@ -13,6 +13,7 @@
 | [0041-first-missing-positive](https://github.com/Arpan268/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Arpan268/DSA-Practice/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpan268/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arpan268/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpan268/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -131,6 +132,7 @@
 | [0013-roman-to-integer](https://github.com/Arpan268/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arpan268/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Arpan268/DSA-Practice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Arpan268/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -286,6 +288,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Arpan268/DSA-Practice/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Arpan268/DSA-Practice/tree/master/0412-fizz-buzz) |
 ## Manacher
 |  |
