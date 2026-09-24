@@ -13,19 +13,17 @@ class Solution {
                 r--;
                 track--;
             }
-            else if(nums1[l] == nums2[track]) {
+            else {
                 nums1[r] = nums2[track];
                 r--;
                 track--;
             }
         }
 
-        int i = 0;
-
-        while(l != r && i <= track) {
-            l++;
-            nums1[l] = nums2[i];
-            i++;
+        while(track > -1) {
+            nums1[r] = nums2[track];
+            r--;
+            track--;
         }
     }
 }
