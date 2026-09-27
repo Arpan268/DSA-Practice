@@ -11,8 +11,6 @@ class Solution {
 
             if (matrix[row][col] == target) {
                 return true;
-            } else if (l == r && matrix[row][col] != target) {
-                break;
             } else if (matrix[row][col] > target) {
                 r = mid - 1;
             } else if (matrix[row][col] < target) {
