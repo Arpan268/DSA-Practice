@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpan268/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpan268/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arpan268/DSA-Practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Arpan268/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -103,6 +104,7 @@
 | [0075-sort-colors](https://github.com/Arpan268/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arpan268/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arpan268/DSA-Practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Arpan268/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -145,6 +147,7 @@
 | [0076-minimum-window-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Arpan268/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Arpan268/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arpan268/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0290-word-pattern) |
@@ -277,6 +280,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arpan268/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
 ## Pigeonhole Principle
 |  |
