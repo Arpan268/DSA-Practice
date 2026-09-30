@@ -47,6 +47,7 @@
 | [0704-binary-search](https://github.com/Arpan268/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
+| [0875-koko-eating-bananas](https://github.com/Arpan268/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Arpan268/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
@@ -264,6 +265,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Arpan268/DSA-Practice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Arpan268/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpan268/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
