@@ -7,11 +7,7 @@ class Solution {
         }
 
         Arrays.sort(str, (a, b) -> {
-            String order1 = a + b;
-            String order2 = b + a;
-
-            return order2.compareTo(order1);
-            //order1.compareTo(order2) sorts in ascending order but we need descending order so we use order2.compareTo(order1)
+            return (b + a).compareTo(a + b);
         });
 
         if(str[0].equals("0")) {
