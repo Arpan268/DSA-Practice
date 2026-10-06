@@ -24,8 +24,7 @@ class Solution {
                 break;
             }
             if(fast.next == null && slow != null) {
-                ListNode temp = slow.next.next;
-                slow.next = temp;
+                slow.next = slow.next.next;
                 fast = fast.next;
                 break;
             }
