@@ -26,7 +26,6 @@ class Solution {
             node2 = node1.next;    
             node1.next = node2.next;
             current.next = node2;
-            node2.next = null;
             current.next.next = node1;
             node1 = node1.next;
             current = current.next.next;
