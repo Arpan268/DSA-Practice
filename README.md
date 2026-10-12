@@ -146,6 +146,7 @@
 | [0012-integer-to-roman](https://github.com/Arpan268/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arpan268/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arpan268/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Arpan268/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Arpan268/DSA-Practice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0076-minimum-window-substring) |
@@ -314,6 +315,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arpan268/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arpan268/DSA-Practice/tree/master/0143-reorder-list) |
 ## Monotonic Stack
@@ -380,4 +382,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arpan268/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arpan268/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
