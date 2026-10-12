@@ -12,9 +12,6 @@ class MinStack {
     }
     
     public void push(int value) {
-        if(top == -1) {
-            min = Integer.MAX_VALUE;
-        }
         list.add(++top, value);
         min = Math.min(min, value);
         map.put(top, min);
@@ -25,6 +22,9 @@ class MinStack {
         list.remove(top--);
         if(top != -1) {
             min = map.get(top);
+        }
+        else {
+            min = Integer.MAX_VALUE;
         }
     }
     
