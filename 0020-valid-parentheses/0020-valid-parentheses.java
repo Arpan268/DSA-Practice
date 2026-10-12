@@ -7,7 +7,7 @@ class Solution {
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
             } else if (stack.isEmpty() && (ch == ')' || ch == '}' || ch == ']')) {
-                stack.push(ch);
+                return false;
             } else if (!stack.isEmpty() && ch == ')' && stack.pop() != '(') {
                 return false;
             } else if (!stack.isEmpty() && ch == '}' && stack.pop() != '{') {
@@ -17,10 +17,6 @@ class Solution {
             }
         }
 
-        if (!stack.isEmpty()) {
-            return false;
-        }
-
-        return true;
+        return stack.isEmpty();
     }
 }
