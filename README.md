@@ -318,6 +318,7 @@
 | [0020-valid-parentheses](https://github.com/Arpan268/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arpan268/DSA-Practice/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Arpan268/DSA-Practice/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -346,6 +347,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Arpan268/DSA-Practice/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/Arpan268/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
