@@ -169,6 +169,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Arpan268/DSA-Practice/tree/master/0981-time-based-key-value-store) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arpan268/DSA-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -319,6 +320,7 @@
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arpan268/DSA-Practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Arpan268/DSA-Practice/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
