@@ -166,6 +166,7 @@
 | [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Arpan268/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0844-backspace-string-compare](https://github.com/Arpan268/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Arpan268/DSA-Practice/tree/master/0981-time-based-key-value-store) |
@@ -264,6 +265,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Arpan268/DSA-Practice/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/Arpan268/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Arpan268/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -320,6 +322,7 @@
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arpan268/DSA-Practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Arpan268/DSA-Practice/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/Arpan268/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -330,6 +333,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/Arpan268/DSA-Practice/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Arpan268/DSA-Practice/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Arpan268/DSA-Practice/tree/master/0844-backspace-string-compare) |
 ## Manacher
 |  |
 | ------- |
