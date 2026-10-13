@@ -11,11 +11,11 @@ class Solution {
             }
         }
 
-        String str = "";
+        StringBuilder sb = new StringBuilder();
         while(!stack.isEmpty()) {
-            str = stack.pop() + str;
+            sb.append(stack.pop());
         }
 
-        return str;
+        return sb.reverse().toString();
     }
 }
