@@ -46,6 +46,7 @@
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Arpan268/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Arpan268/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Arpan268/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Arpan268/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
@@ -322,12 +323,14 @@
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arpan268/DSA-Practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Arpan268/DSA-Practice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Arpan268/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Arpan268/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arpan268/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Arpan268/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
