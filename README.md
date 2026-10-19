@@ -175,6 +175,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Arpan268/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Arpan268/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arpan268/DSA-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -332,6 +333,7 @@
 | [0844-backspace-string-compare](https://github.com/Arpan268/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Arpan268/DSA-Practice/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Arpan268/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
