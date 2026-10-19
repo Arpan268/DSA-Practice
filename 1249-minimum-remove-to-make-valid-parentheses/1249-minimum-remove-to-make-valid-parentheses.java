@@ -1,7 +1,6 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
-        StringBuilder sb1 = new StringBuilder();
-        StringBuilder sb2 = new StringBuilder();
+        StringBuilder sb = new StringBuilder();
         int count = 0;
 
         for(int i = s.length() - 1; i >= 0; i--) {
@@ -17,10 +16,11 @@ class Solution {
                 count = 0;
                 continue;
             }
-            sb1.append(ch);
+            sb.append(ch);
         }
 
-        String str = sb1.reverse().toString();
+        String str = sb.reverse().toString();
+        sb.setLength(0);
         count = 0;
 
         for(int i = 0; i < str.length(); i++) {
@@ -36,9 +36,9 @@ class Solution {
                 count = 0;
                 continue;
             }
-            sb2.append(ch);
+            sb.append(ch);
         }
 
-        return sb2.toString();
+        return sb.toString();
     }
 }
