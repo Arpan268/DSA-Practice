@@ -6,9 +6,11 @@ class Solution {
         for (int i = 0; i < heights.length; i++) {
             if (stack.isEmpty()) {
                 stack.push(i);
-            } else if (!stack.isEmpty() && heights[i] >= heights[stack.peek()]) {
+            }
+            else if (!stack.isEmpty() && heights[i] >= heights[stack.peek()]) {
                 stack.push(i);
-            } else if (!stack.isEmpty() && heights[i] < heights[stack.peek()]) {
+            }
+            else if (!stack.isEmpty() && heights[i] < heights[stack.peek()]) {
                 while (!stack.isEmpty() && heights[i] < heights[stack.peek()]) {
                     int poppedIndex = stack.pop();
                     int height = heights[poppedIndex];
