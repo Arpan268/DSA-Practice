@@ -205,6 +205,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Arpan268/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Arpan268/DSA-Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Divide and Conquer
@@ -336,6 +337,7 @@
 | [0143-reorder-list](https://github.com/Arpan268/DSA-Practice/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arpan268/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Arpan268/DSA-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Arpan268/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Arpan268/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Arpan268/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Arpan268/DSA-Practice/tree/master/0853-car-fleet) |
@@ -374,6 +376,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Arpan268/DSA-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Arpan268/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0981-time-based-key-value-store](https://github.com/Arpan268/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
