@@ -63,7 +63,7 @@ class MyCircularQueue {
     }
     
     public boolean isFull() {
-        if(f == (r + 1) % arr.length || r == arr.length - 1) {
+        if(f == (r + 1) % arr.length) {
             return true;
         }
         return false;
