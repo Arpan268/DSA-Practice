@@ -43,6 +43,7 @@
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Arpan268/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Arpan268/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Arpan268/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -208,6 +209,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Arpan268/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arpan268/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Arpan268/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Arpan268/DSA-Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Divide and Conquer
 |  |
@@ -380,6 +382,7 @@
 | [0155-min-stack](https://github.com/Arpan268/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Arpan268/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arpan268/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Arpan268/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/Arpan268/DSA-Practice/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
@@ -394,6 +397,7 @@
 | [0141-linked-list-cycle](https://github.com/Arpan268/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Arpan268/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Arpan268/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Arpan268/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Arpan268/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
