@@ -173,6 +173,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Arpan268/DSA-Practice/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/Arpan268/DSA-Practice/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/Arpan268/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
@@ -210,6 +211,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Arpan268/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Arpan268/DSA-Practice/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Arpan268/DSA-Practice/tree/master/0649-dota2-senate) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Arpan268/DSA-Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Divide and Conquer
 |  |
@@ -312,6 +314,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arpan268/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
+| [0649-dota2-senate](https://github.com/Arpan268/DSA-Practice/tree/master/0649-dota2-senate) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
 ## Pigeonhole Principle
 |  |
