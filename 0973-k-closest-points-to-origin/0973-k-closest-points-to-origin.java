@@ -3,7 +3,7 @@ class Solution {
         Queue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]);
 
         for(int i = 0; i < points.length; i++) {
-            int dist = (int)(Math.pow(points[i][0], 2) + Math.pow(points[i][1], 2));
+            int dist = points[i][0] * points[i][0] + points[i][1] * points[i][1];
 
             pq.add(new int[]{dist, i});      
             if(pq.size() > k) {
