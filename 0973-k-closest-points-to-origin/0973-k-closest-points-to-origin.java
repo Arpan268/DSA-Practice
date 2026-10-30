@@ -16,8 +16,7 @@ class Solution {
 
         while(!pq.isEmpty()) {
             int index = pq.poll()[1];
-            ans[i][0] = points[index][0];
-            ans[i][1] = points[index][1];
+            ans[i] = points[index];
             i++;
         }
 
