@@ -56,6 +56,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Arpan268/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
+| [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpan268/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Arpan268/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Arpan268/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -130,6 +131,7 @@
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/Arpan268/DSA-Practice/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0169-majority-element](https://github.com/Arpan268/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Arpan268/DSA-Practice/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -241,6 +245,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -256,6 +261,7 @@
 | [0268-missing-number](https://github.com/Arpan268/DSA-Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Arpan268/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -439,4 +445,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arpan268/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
