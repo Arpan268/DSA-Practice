@@ -57,6 +57,7 @@
 | [0904-fruit-into-baskets](https://github.com/Arpan268/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Arpan268/DSA-Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpan268/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Arpan268/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Arpan268/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Arpan268/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Arpan268/DSA-Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -228,6 +229,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/Arpan268/DSA-Practice/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
