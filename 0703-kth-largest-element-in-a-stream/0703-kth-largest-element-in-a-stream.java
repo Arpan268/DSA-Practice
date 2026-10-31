@@ -4,7 +4,7 @@ class KthLargest {
     int limit;
 
     public KthLargest(int k, int[] nums) {
-        pq = new PriorityQueue<>((a, b) -> a - b);
+        pq = new PriorityQueue<>();
         limit = k;
 
         for (int n : nums) {
