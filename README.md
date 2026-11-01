@@ -43,6 +43,7 @@
 | [0525-contiguous-array](https://github.com/Arpan268/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Arpan268/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Arpan268/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Arpan268/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Arpan268/DSA-Practice/tree/master/0645-set-mismatch) |
@@ -98,6 +99,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpan268/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arpan268/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Arpan268/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Arpan268/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
@@ -127,6 +129,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/Arpan268/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Arpan268/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
@@ -205,6 +208,7 @@
 | [0383-ransom-note](https://github.com/Arpan268/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Arpan268/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Arpan268/DSA-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
@@ -231,6 +235,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Arpan268/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arpan268/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Arpan268/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -323,6 +328,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arpan268/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/Arpan268/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Arpan268/DSA-Practice/tree/master/0649-dota2-senate) |
 | [0846-hand-of-straights](https://github.com/Arpan268/DSA-Practice/tree/master/0846-hand-of-straights) |
 ## Pigeonhole Principle
