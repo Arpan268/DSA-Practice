@@ -18,6 +18,7 @@ class MedianFinder {
         else {
             max.add(num);
         }
+        
         if (min.size() > max.size() + 1) {
             max.add(min.poll());
         } else if (max.size() > min.size() + 1) {
