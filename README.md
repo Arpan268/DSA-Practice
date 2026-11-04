@@ -86,6 +86,7 @@
 | [0290-word-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpan268/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/Arpan268/DSA-Practice/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Arpan268/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arpan268/DSA-Practice/tree/master/0389-find-the-difference) |
@@ -236,6 +237,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Arpan268/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Arpan268/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Arpan268/DSA-Practice/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpan268/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Arpan268/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -404,6 +406,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Arpan268/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arpan268/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Arpan268/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/Arpan268/DSA-Practice/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/Arpan268/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arpan268/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/Arpan268/DSA-Practice/tree/master/0981-time-based-key-value-store) |
@@ -420,6 +423,7 @@
 | [0141-linked-list-cycle](https://github.com/Arpan268/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Arpan268/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Arpan268/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/Arpan268/DSA-Practice/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/Arpan268/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Arpan268/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
