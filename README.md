@@ -472,6 +472,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arpan268/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -481,6 +482,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arpan268/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -491,9 +493,11 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
