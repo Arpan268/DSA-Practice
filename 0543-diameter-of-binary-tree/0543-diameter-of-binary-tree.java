@@ -27,7 +27,7 @@ class Solution {
         int left = getDepth(root.left);
         int right = getDepth(root.right);
 
-        max = (left + right) > max ? left + right : max;
+        max = Math.max(max, left + right);
 
         return 1 + Math.max(left, right);
     }
