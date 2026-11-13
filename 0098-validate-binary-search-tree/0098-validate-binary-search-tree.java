@@ -14,10 +14,7 @@
  * }
  */
 class Solution {
-    int rootVal;
     public boolean isValidBST(TreeNode root) {
-        rootVal = root.val;
-
         return compare(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
