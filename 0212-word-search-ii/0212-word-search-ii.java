@@ -2,8 +2,6 @@ class Solution {
 
     private class TrieNode {
         TrieNode children[] = new TrieNode[26];
-        boolean isEnd = false;
-        boolean isFound = false;
         String word;
         int childCount = 0;
     }
@@ -24,7 +22,6 @@ class Solution {
             current = current.children[index];
         }
         current.word = word;
-        current.isEnd = true;
     }
 
     private void dfs(char[][] board, int i, int j, TrieNode current) {
@@ -38,11 +35,10 @@ class Solution {
             return;
         }
 
-
         TrieNode letter = current.children[index];
-        if(letter.isEnd && !letter.isFound) {
+        if(letter.word != null) {
             list.add(letter.word);
-            letter.isFound = true;
+            letter.word = null;
         }
 
 
