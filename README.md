@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/Arpan268/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpan268/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpan268/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Arpan268/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -174,6 +175,7 @@
 | [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Arpan268/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Arpan268/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Arpan268/DSA-Practice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arpan268/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/Arpan268/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
@@ -408,6 +411,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arpan268/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0212-word-search-ii) |
 ## Design
 |  |
 | ------- |
@@ -469,6 +473,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arpan268/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0212-word-search-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
