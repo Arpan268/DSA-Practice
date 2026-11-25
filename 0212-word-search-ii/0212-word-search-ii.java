@@ -5,6 +5,7 @@ class Solution {
         boolean isEnd = false;
         boolean isFound = false;
         String word;
+        int childCount = 0;
     }
 
     TrieNode root = new TrieNode();
@@ -18,6 +19,7 @@ class Solution {
 
             if(current.children[index] == null) {
                 current.children[index] = new TrieNode();
+                current.childCount++;
             }
             current = current.children[index];
         }
@@ -36,13 +38,13 @@ class Solution {
             return;
         }
 
-        if(current.children[index] != null) {
-            TrieNode letter = current.children[index];
-            if(letter.isEnd && !letter.isFound) {
-                list.add(letter.word);
-                letter.isFound = true;
-            }
+
+        TrieNode letter = current.children[index];
+        if(letter.isEnd && !letter.isFound) {
+            list.add(letter.word);
+            letter.isFound = true;
         }
+
 
         board[i][j] = '#';
 
@@ -59,6 +61,10 @@ class Solution {
             dfs(board, i, j + 1, current.children[index]);
         }
         board[i][j] = temp;
+        if(letter.childCount == 0 && letter.word == null) {
+            current.children[index] = null;
+            current.childCount--;
+        }
     }
 
     public List<String> findWords(char[][] board, String[] words) {
