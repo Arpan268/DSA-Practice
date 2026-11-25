@@ -4,6 +4,7 @@ class Solution {
         TrieNode children[] = new TrieNode[26];
         boolean isEnd = false;
         boolean isFound = false;
+        String word;
     }
 
     TrieNode root = new TrieNode();
@@ -20,10 +21,11 @@ class Solution {
             }
             current = current.children[index];
         }
+        current.word = word;
         current.isEnd = true;
     }
 
-    private void dfs(char[][] board, int i, int j, TrieNode current, String s) {
+    private void dfs(char[][] board, int i, int j, TrieNode current) {
         if(board[i][j] == '#') {
             return;
         }
@@ -33,12 +35,11 @@ class Solution {
         if(current.children[index] == null) {
             return;
         }
-        s += board[i][j];
 
         if(current.children[index] != null) {
             TrieNode letter = current.children[index];
             if(letter.isEnd && !letter.isFound) {
-                list.add(s);
+                list.add(letter.word);
                 letter.isFound = true;
             }
         }
@@ -46,16 +47,16 @@ class Solution {
         board[i][j] = '#';
 
         if(i > 0) {
-            dfs(board, i - 1, j, current.children[index], s);
+            dfs(board, i - 1, j, current.children[index]);
         }
         if(i < board.length - 1) {
-            dfs(board, i + 1, j, current.children[index], s);
+            dfs(board, i + 1, j, current.children[index]);
         }
         if(j > 0) {
-            dfs(board, i, j - 1, current.children[index], s);
+            dfs(board, i, j - 1, current.children[index]);
         }
         if(j < board[0].length - 1) {
-            dfs(board, i, j + 1, current.children[index], s);
+            dfs(board, i, j + 1, current.children[index]);
         }
         board[i][j] = temp;
     }
@@ -66,13 +67,12 @@ class Solution {
         }
 
         TrieNode current = root;
-        String s = "";
 
         for(int i = 0; i < board.length; i++) {
             for(int j = 0; j < board[0].length; j++) {
                 int index = board[i][j] - 'a';
                 if(current.children[index] != null) {
-                    dfs(board, i, j, current, s);
+                    dfs(board, i, j, current);
                 }
             }
         }
