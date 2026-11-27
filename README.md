@@ -18,6 +18,7 @@
 | [0068-text-justification](https://github.com/Arpan268/DSA-Practice/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Arpan268/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arpan268/DSA-Practice/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Arpan268/DSA-Practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arpan268/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Arpan268/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arpan268/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -170,6 +171,7 @@
 | [0049-group-anagrams](https://github.com/Arpan268/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Arpan268/DSA-Practice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Arpan268/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Arpan268/DSA-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Arpan268/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arpan268/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Arpan268/DSA-Practice/tree/master/0179-largest-number) |
@@ -411,6 +413,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arpan268/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Arpan268/DSA-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0212-word-search-ii) |
 ## Design
 |  |
@@ -473,6 +476,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arpan268/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Arpan268/DSA-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Arpan268/DSA-Practice/tree/master/0212-word-search-ii) |
 ## Range Minimum/Maximum Query
 |  |
@@ -545,6 +549,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arpan268/DSA-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Arpan268/DSA-Practice/tree/master/0101-symmetric-tree) |
